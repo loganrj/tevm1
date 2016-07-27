@@ -1,0 +1,15 @@
+---
+title: Apostilas e Cursos
+subtitle: Cursos Online, downloads de Apostilas, Normas e Regimentos
+layout: default
+modal-id: 1
+date: 2016-02-18
+img: cursos-thumbnail.png
+img1: ead.jpg
+thumbnail: cursos-thumbnail.png
+alt: image-alt
+project-date: Abril 2016
+client:
+category:
+description: Fa?a downloads de nossas apostilas, manuais, regimentos, preces e etc..
+---

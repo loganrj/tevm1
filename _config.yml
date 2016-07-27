@@ -1,0 +1,134 @@
+url: https://loganrj.github.io
+#baseurl: /tevm/
+baseurl:
+
+# Site settings
+title: TEVM
+email: contato@tevm.org
+description: "tenda espírita, vovô marruá, TEVM, tevm, tenda, umbanda omolôco, caridade, fé, união, amor, paz, umbanda, umbanda ead, umbanda branca, umbanda orixas, umbanda sagrada, umbanda e candombl?, umbanda eu curto, marru?, umbanda pontos, iemanj?, umbanda, umbanda o que ?, umbanda musicas, umbanda esoterica, umbanda pdf, umbanda e espiritismo, umbanda frases, umbanda historia, umbanda significado, umbanda brasil, umbanda omoloko, umbanda exu, umbanda preto velho, umbanda santos, umbanda e quimbanda, umbanda entidades, umbanda mesa branca, umbanda linha branca, umbanda pomba gira,metadata"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: dd3d15
+  secondary: e65927
+  secondary-dark: 552200
+
+# Team names, titles and social links
+people:
+- name: Matildes de Iemanjá
+  pic: 1
+  resp: TODAS
+  position: IALORIXÁ
+  social:
+    - title: arrow-up
+      url:
+      guia: CABOCLO ARRANCA-TÔCO
+    - title: coffee
+      url: #
+      guia: VOVÔ MARRUÁ
+    - title: usb
+      url: #
+      guia: POMBA-GIRA DAS ALMAS
+    - title: child
+      url: #
+      guia: ERÊ CRISPIM
+
+- name: Isaúra de Nanã
+  pic: 2
+  resp: CABOCLO
+  position: BABALORIXÁ
+  social:
+    - title: arrow-up
+      url: #
+      guia: CABOCLO UBIRAJARA PEITO DE AÇO
+    - title: coffee
+      url: #
+      guia: VOVÓ CAMBINDA DO ORIENTE
+    - title: usb
+      url: #
+      guia: POMBA-GIRA DO CRUZEIRO
+    - title: child
+      url: #
+      guia: ERÊ CABOCLINHO DO MATO
+
+- name: Erisvaldo de Oxalá
+  pic: 3
+  resp: EXÚ
+  position: BABALORIXÁ
+  social:
+    - title: arrow-up
+      url:
+      guia: CABOCLO BOIADEIRO DO CAMPO
+    - title: coffee
+      url: #
+      guia: VOVÓ PAI JOAQUIM DA CALUNGA
+    - title: usb
+      url: #
+      guia: EXÚ CAVEIRA
+    - title: child
+      url: #
+      guia: ERÊ PAULINHO DO CAMPO
+
+- name: Jefferson de Ogum
+  pic: 4
+  resp: PRETO-VELHO
+  position: BABALORIXÁ
+  social:
+    - title: arrow-up
+      url:
+      guia: CABOCLO 7 ENCRUZILHADAS
+    - title: coffee
+      url:
+      guia: VOVÔ PAE JABOB
+    - title: usb
+      url:
+      guia: EXÚ TRANCA RUA DAS ALMAS
+    - title: child
+      url:
+      guia: ERẼ CRISPINIANO
+
+- name: Vanda de Iansã
+  pic: 5
+  resp: IBEIJADA
+  position: BABALORIXÁ
+  social:
+    - title: arrow-up
+      url:
+      guia: CABOCLA JUREMA DAS MATAS
+    - title: coffee
+      url: #
+      guia: VOVÓ TIA MARIA CONGA DE ARUANDA
+    - title: usb
+      url: #
+      guia: POMBA-GIRA CIGANINHA
+    - title: child
+      url: #
+      guia: ERẼ JUSSARINHA
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://goo.gl/5TZAgS
+  - title: facebook
+    url: https://goo.gl/L3Fy6w
+  - title: bitbucket
+    url: http://bitbucket.org/loganrj
+  - title: github
+    url: http://github.com/loganrj
+  - title: youtube
+    url: http://goo.gl/CL3y5C
+  - title: gg-circle
+    url: http://goo.gl/ax7IjG
+# Postal address (add as many lines as necessary)
+address:
+  - line: 145 Rua Cardoso de Melo
+  - line: Oswaldo Cruz, RJ 21340-360
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+gems:
+  - jekyll-sitemap
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
